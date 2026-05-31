@@ -1,5 +1,5 @@
-# 💫 About Me:
-🌟 Welcome to my GitHub!  <br>I’m Mahesh, a curious learner and aspiring developer.  <br>- 🌱 Currently learning: HTML, CSS, JavaScript<br>- 💻 Exploring GitHub & open-source projects    <br>- 🚀 Goal: To become a skilled web developer  <br>- ⚡ Fun fact: Music keeps me focused 🎶
+# 🌟 Welcome to my GitHub!  <br>I’m Mahesh, a curious learner and aspiring developer.
+<br> 💫 About Me: <br>- <br>- 🌱 Currently learning: HTML, CSS, JavaScript<br>- 💻 Exploring GitHub & open-source projects    <br>- 🚀 Goal: To become a skilled web developer  <br>- ⚡ Fun fact: Music keeps me focused 🎶
 
 
 # 💻 Tech Stack:
